@@ -13,6 +13,7 @@ Java
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/patilcodesx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/patilcodesx/Leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/patilcodesx/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/patilcodesx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
@@ -23,6 +24,7 @@ Java
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/patilcodesx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/patilcodesx/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
