@@ -4,10 +4,17 @@ class Solution {
       Map<String,List<String>> map = new HashMap<>();
 
       for(String word: strs){
-        char[] strarr = word.toCharArray();
-        Arrays.sort(strarr);
+        // char[] strarr = word.toCharArray();
+        // Arrays.sort(strarr);
 
-        String key = new String(strarr);
+        // String key = new String(strarr);
+
+        int[] count = new int[26];
+        for(char ch : word.toCharArray()){
+              count[ch-'a']++;
+        }
+
+        String key = Arrays.toString(count);
         map.putIfAbsent(key,new ArrayList<>());
         map.get(key).add(word);
       }
