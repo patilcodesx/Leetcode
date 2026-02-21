@@ -53,4 +53,12 @@ Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patilcodesx/Leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
