@@ -2,7 +2,7 @@ class Solution {
     public boolean hasAllCodes(String s, int k) {
         Set<String> set = new HashSet<>();
 
-        int needed = 1 << k;
+        int needed = (int)Math.pow(2,k);
         
         for(int i=k;i<=s.length();i++){
            
