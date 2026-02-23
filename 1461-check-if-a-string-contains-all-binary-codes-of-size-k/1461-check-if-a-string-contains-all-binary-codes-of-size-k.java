@@ -10,9 +10,9 @@ class Solution {
              if(needed==set.size()){
                 return true;
             }
-            System.out.println(s.substring(i-k,i));
+            
         }
-          System.out.println(2*k+" "+set.size());
+         
         return needed==set.size();
 
 
