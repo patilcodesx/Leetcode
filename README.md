@@ -52,6 +52,7 @@ Java
 | [0014-longest-common-prefix](https://github.com/patilcodesx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
+| [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -90,4 +91,5 @@ Java
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
