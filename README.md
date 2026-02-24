@@ -50,6 +50,7 @@ Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patilcodesx/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
@@ -85,4 +86,8 @@ Java
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
