@@ -27,6 +27,7 @@ Java
 | ------- |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/patilcodesx/Leetcode/tree/master/0242-valid-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Java
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Java
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/patilcodesx/Leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/patilcodesx/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -97,4 +100,8 @@ Java
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
