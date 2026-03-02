@@ -59,6 +59,7 @@ Java
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Trie
 |  |
 | ------- |
@@ -110,4 +111,12 @@ Java
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
