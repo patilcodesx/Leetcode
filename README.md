@@ -34,6 +34,7 @@ Java
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/patilcodesx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/patilcodesx/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/patilcodesx/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -60,6 +61,7 @@ Java
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
+| [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
