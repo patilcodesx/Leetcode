@@ -7,6 +7,7 @@ Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/patilcodesx/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/patilcodesx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/patilcodesx/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/patilcodesx/Leetcode/tree/master/0242-valid-anagram) |
@@ -15,6 +16,7 @@ Java
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/patilcodesx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/patilcodesx/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/patilcodesx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
@@ -58,6 +60,7 @@ Java
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/patilcodesx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
