@@ -34,6 +34,7 @@ Java
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/patilcodesx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/patilcodesx/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/patilcodesx/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
@@ -61,6 +62,7 @@ Java
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/patilcodesx/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/patilcodesx/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +75,7 @@ Java
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/patilcodesx/Leetcode/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
