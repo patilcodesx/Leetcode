@@ -6,6 +6,7 @@ Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/patilcodesx/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/patilcodesx/Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
@@ -53,6 +54,7 @@ Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/patilcodesx/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/patilcodesx/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
