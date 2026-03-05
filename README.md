@@ -19,6 +19,7 @@ Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/patilcodesx/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/patilcodesx/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/patilcodesx/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/patilcodesx/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/patilcodesx/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/patilcodesx/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -127,6 +128,7 @@ Java
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/patilcodesx/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/patilcodesx/Leetcode/tree/master/0046-permutations) |
 ## Counting
@@ -151,6 +153,7 @@ Java
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilcodesx/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/patilcodesx/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/patilcodesx/Leetcode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
