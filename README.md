@@ -128,6 +128,7 @@ Java
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Java
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -190,4 +192,16 @@ Java
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/patilcodesx/Leetcode/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
