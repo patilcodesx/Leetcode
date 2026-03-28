@@ -127,14 +127,17 @@ Java
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search
 |  |
@@ -237,4 +240,8 @@ Java
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/patilcodesx/Leetcode/tree/master/1622-fancy-sequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
