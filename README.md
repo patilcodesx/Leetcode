@@ -33,6 +33,7 @@ Java
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/patilcodesx/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/patilcodesx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2573-find-the-string-with-lcp](https://github.com/patilcodesx/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/patilcodesx/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
