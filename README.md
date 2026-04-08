@@ -71,6 +71,7 @@ Java
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/patilcodesx/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2069-walking-robot-simulation-ii](https://github.com/patilcodesx/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Java
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/patilcodesx/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/patilcodesx/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/patilcodesx/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Java
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/patilcodesx/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
