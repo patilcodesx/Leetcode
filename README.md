@@ -104,6 +104,7 @@ Java
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/patilcodesx/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/patilcodesx/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/patilcodesx/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Trie
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Java
 | [0169-majority-element](https://github.com/patilcodesx/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/patilcodesx/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
