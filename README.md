@@ -16,6 +16,7 @@ Java
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patilcodesx/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/patilcodesx/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/patilcodesx/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/patilcodesx/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/patilcodesx/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/patilcodesx/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -109,6 +110,7 @@ Java
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/patilcodesx/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/patilcodesx/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3488-closest-equal-element-queries](https://github.com/patilcodesx/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/patilcodesx/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/patilcodesx/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -164,6 +166,7 @@ Java
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [3488-closest-equal-element-queries](https://github.com/patilcodesx/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Backtracking
 |  |
