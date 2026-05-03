@@ -33,6 +33,7 @@ Java
 | [0443-string-compression](https://github.com/patilcodesx/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/patilcodesx/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/patilcodesx/Leetcode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patilcodesx/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/patilcodesx/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/patilcodesx/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -283,5 +284,6 @@ Java
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/patilcodesx/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/patilcodesx/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
