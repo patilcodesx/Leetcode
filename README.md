@@ -94,6 +94,7 @@ Java
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/patilcodesx/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/patilcodesx/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/patilcodesx/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/patilcodesx/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/patilcodesx/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/patilcodesx/Leetcode/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@ Java
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/patilcodesx/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/patilcodesx/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/patilcodesx/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -197,6 +199,7 @@ Java
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/patilcodesx/Leetcode/tree/master/0048-rotate-image) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/patilcodesx/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
