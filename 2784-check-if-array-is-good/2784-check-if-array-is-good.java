@@ -1,28 +1,15 @@
 class Solution {
     public boolean isGood(int[] nums) {
 
+        Arrays.sort(nums);
         int n = nums.length - 1;
 
-        int[] freq = new int[n + 1];
-
-        for (int num : nums) {
-
-            // number out of valid range
-            if (num > n || num < 1) {
-                return false;
-            }
-
-            freq[num]++;
-        }
-
-        // 1 to n-1 should appear once
-        for (int i = 1; i < n; i++) {
-            if (freq[i] != 1) {
+      
+        for(int i=0;i<n;i++){
+            if(nums[i]!=i+1){
                 return false;
             }
         }
-
-        // n should appear twice
-        return freq[n] == 2;
+       return nums[n]==n;
     }
 }
