@@ -105,6 +105,7 @@ Java
 | [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patilcodesx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -164,6 +165,7 @@ Java
 | ------- |
 | [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Java
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
+| [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 ## String Matching
 |  |
 | ------- |
