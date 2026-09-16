@@ -151,6 +151,7 @@ Java
 | [0509-fibonacci-number](https://github.com/patilcodesx/Leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/patilcodesx/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patilcodesx/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/patilcodesx/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -255,12 +256,14 @@ Java
 | [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patilcodesx/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2573-find-the-string-with-lcp](https://github.com/patilcodesx/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/patilcodesx/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patilcodesx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patilcodesx/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/patilcodesx/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/patilcodesx/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Recursion
@@ -331,6 +334,7 @@ Java
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patilcodesx/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
