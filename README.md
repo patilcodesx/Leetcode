@@ -15,6 +15,7 @@ Java
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patilcodesx/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/patilcodesx/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patilcodesx/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2784-check-if-array-is-good](https://github.com/patilcodesx/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/patilcodesx/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/patilcodesx/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -95,6 +96,7 @@ Java
 | [0567-permutation-in-string](https://github.com/patilcodesx/Leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patilcodesx/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patilcodesx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patilcodesx/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Java
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1563-stone-game-v](https://github.com/patilcodesx/Leetcode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patilcodesx/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/patilcodesx/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/patilcodesx/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/patilcodesx/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -194,6 +197,7 @@ Java
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patilcodesx/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3488-closest-equal-element-queries](https://github.com/patilcodesx/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Backtracking
@@ -264,6 +268,7 @@ Java
 | [0238-product-of-array-except-self](https://github.com/patilcodesx/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patilcodesx/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/patilcodesx/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patilcodesx/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/patilcodesx/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/patilcodesx/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Recursion
