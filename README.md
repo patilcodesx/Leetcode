@@ -163,6 +163,7 @@ Java
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/patilcodesx/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Java
 | [3474-lexicographically-smallest-generated-string](https://github.com/patilcodesx/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3689-maximum-total-subarray-value-i](https://github.com/patilcodesx/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/patilcodesx/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/patilcodesx/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
