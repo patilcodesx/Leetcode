@@ -140,6 +140,7 @@ Java
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/patilcodesx/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3488-closest-equal-element-queries](https://github.com/patilcodesx/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/patilcodesx/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/patilcodesx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/patilcodesx/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/patilcodesx/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -174,6 +175,7 @@ Java
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/patilcodesx/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/patilcodesx/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/patilcodesx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Rolling Hash
 |  |
 | ------- |
