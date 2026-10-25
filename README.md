@@ -117,6 +117,7 @@ Java
 | [0283-move-zeroes](https://github.com/patilcodesx/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/patilcodesx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/patilcodesx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/patilcodesx/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -194,6 +195,7 @@ Java
 | ------- |
 | [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/patilcodesx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -242,6 +244,7 @@ Java
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/patilcodesx/Leetcode/tree/master/0048-rotate-image) |
+| [1254-number-of-closed-islands](https://github.com/patilcodesx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/patilcodesx/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/patilcodesx/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/patilcodesx/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -309,6 +312,7 @@ Java
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/patilcodesx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2573-find-the-string-with-lcp](https://github.com/patilcodesx/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/patilcodesx/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -332,6 +336,7 @@ Java
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/patilcodesx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
 ## String Matching
 |  |
