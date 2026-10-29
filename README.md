@@ -51,6 +51,7 @@ Java
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/patilcodesx/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/patilcodesx/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Java
 | [3727-maximum-alternating-sum-of-squares](https://github.com/patilcodesx/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/patilcodesx/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/patilcodesx/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/patilcodesx/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Trie
 |  |
@@ -177,6 +179,7 @@ Java
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/patilcodesx/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/patilcodesx/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Java
 | ------- |
 | [0100-same-tree](https://github.com/patilcodesx/Leetcode/tree/master/0100-same-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +201,7 @@ Java
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/patilcodesx/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/patilcodesx/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/patilcodesx/Leetcode/tree/master/1306-jump-game-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +268,7 @@ Java
 | [0347-top-k-frequent-elements](https://github.com/patilcodesx/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/patilcodesx/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/patilcodesx/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +338,7 @@ Java
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/patilcodesx/Leetcode/tree/master/1622-fancy-sequence) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,4 +371,8 @@ Java
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/patilcodesx/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
