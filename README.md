@@ -147,6 +147,7 @@ Java
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/patilcodesx/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/patilcodesx/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/patilcodesx/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/patilcodesx/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/patilcodesx/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/patilcodesx/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -169,6 +170,7 @@ Java
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/patilcodesx/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/patilcodesx/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/patilcodesx/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/patilcodesx/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
