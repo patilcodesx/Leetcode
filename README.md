@@ -377,4 +377,8 @@ Java
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/patilcodesx/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/patilcodesx/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
