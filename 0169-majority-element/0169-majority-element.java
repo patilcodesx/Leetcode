@@ -1,34 +1,42 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-    //Better Approach
-     int threshold = nums.length/2;
-     HashMap<Integer,Integer> frequencies = new HashMap<>();
+    //Optimal Solution
+    int balance = 0;
+    int candidate = 0;
 
+    for(int value : nums){
 
-     for(int value: nums){
-        int updateFrequency = frequencies.getOrDefault(value,0)+1;
-        frequencies.put(value,updateFrequency);
-
-        if(updateFrequency > threshold){
-            return value;
+        if(balance==0){
+            candidate = value;
         }
-     }
-     return -1;
+
+        if(value==candidate){
+            balance++;
+        }else{
+            balance--;
+        }
+
+    }
+    return candidate;
+    
+    
+    
+    
+    //Better Approach
+    //  int threshold = nums.length/2;
+    //  HashMap<Integer,Integer> frequencies = new HashMap<>();
 
 
+    //  for(int value: nums){
+    //     int updateFrequency = frequencies.getOrDefault(value,0)+1;
+    //     frequencies.put(value,updateFrequency);
 
-
-
-
-
-
-
-
-
-
-
-
+    //     if(updateFrequency > threshold){
+    //         return value;
+    //     }
+    //  }
+    //  return -1;
 
 
     //Brute Force
